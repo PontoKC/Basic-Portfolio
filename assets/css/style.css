@@ -10,8 +10,8 @@ body {
 }
 
 hr {
-	height: 2px;
-	background-color: gray;
+	height: 1px;
+	background-color: #cccccc;
 	margin-bottom: 20px;
 }
 
@@ -88,7 +88,7 @@ section img {
 	max-width: 960px;
 	margin-top: 40px;
 	margin-left: 10%;
-	margin-bottom: 150px;
+
 }
 
 .subheading {
