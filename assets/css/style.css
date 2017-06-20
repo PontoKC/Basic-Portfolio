@@ -41,6 +41,15 @@ section img {
 	margin-right: 15px;
 }
 
+#portcontainer {
+	float:left;
+}
+
+#placeholder {
+	width: 270px;
+	margin: 0px 30px 50px 0px;
+	float:left;
+}
 
 #links a:link, a:visited {
 	padding-left: 15px;
@@ -81,6 +90,12 @@ section img {
 	padding: .3em;
 	float: left;
 	margin-top: 23px;
+}
+
+.tag {
+	float: left;
+	z-index: 1000;
+	font-size: 2em;
 }
 
 #container {
